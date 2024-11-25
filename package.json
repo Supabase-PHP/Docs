@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@mdx-js/rollup": "^3.1.0",
-    "@mdx-js/vue": "^3.1.0"
-  }
-}
